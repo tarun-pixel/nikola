@@ -1,4 +1,4 @@
-Nikola, a Static Site and Blog Generator
+Nikola, is Static Site and Blog Generator
 ========================================
 
 In goes content, out comes a website, ready to deploy.
